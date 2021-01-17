@@ -1,1 +1,1 @@
-# Auto-Encoders
+we illustrate an image reconstruction method performed by EncoderForest (eForest), which is an auto encoder built by ensemble tree. We define different types of implementations on eForest to regenerate the original sample of image and text datasets. We implemented the forward and backward propagation techniques using the trees' decision routes and illustrate their use in both supervised and unsupervised models. 
